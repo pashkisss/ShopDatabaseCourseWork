@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Shops xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <shops>
+    <Shop>
+      <Name>Караван</Name>
+      <Adress>Героїв праці</Adress>
+      <Tel>Не вказано</Tel>
+      <Specialization>тц</Specialization>
+      <OwnershipType>підприємець</OwnershipType>
+      <WorkTime>
+        <Open>0</Open>
+        <Close>24</Close>
+      </WorkTime>
+    </Shop>
+    <Shop>
+      <Name>Ашан</Name>
+      <Adress>Не вказано</Adress>
+      <Tel>Не вказано</Tel>
+      <Specialization>супермаркет</Specialization>
+      <OwnershipType>підприємеці</OwnershipType>
+      <WorkTime>
+        <Open>0</Open>
+        <Close>23</Close>
+      </WorkTime>
+    </Shop>
+    <Shop>
+      <Name>Чудо маркет</Name>
+      <Adress>пер. Брянський</Adress>
+      <Tel>+38******
++38******</Tel>
+      <Specialization>маркет</Specialization>
+      <OwnershipType>Не вказано</OwnershipType>
+      <WorkTime>
+        <Open>7</Open>
+        <Close>24</Close>
+      </WorkTime>
+    </Shop>
+  </shops>
+</Shops>

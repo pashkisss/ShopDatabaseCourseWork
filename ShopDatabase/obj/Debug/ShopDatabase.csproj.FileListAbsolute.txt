@@ -1,0 +1,22 @@
+C:\Users\Роман\Desktop\ShopDatabase\ShopDatabase\bin\Debug\ShopDatabase.exe.config
+C:\Users\Роман\Desktop\ShopDatabase\ShopDatabase\bin\Debug\ShopDatabase.exe
+C:\Users\Роман\Desktop\ShopDatabase\ShopDatabase\bin\Debug\ShopDatabase.pdb
+C:\Users\Роман\Desktop\ShopDatabase\ShopDatabase\obj\Debug\ShopDatabase.csprojAssemblyReference.cache
+C:\Users\Роман\Desktop\ShopDatabase\ShopDatabase\obj\Debug\ShopDatabase.Form1.resources
+C:\Users\Роман\Desktop\ShopDatabase\ShopDatabase\obj\Debug\ShopDatabase.Form2.resources
+C:\Users\Роман\Desktop\ShopDatabase\ShopDatabase\obj\Debug\ShopDatabase.Properties.Resources.resources
+C:\Users\Роман\Desktop\ShopDatabase\ShopDatabase\obj\Debug\ShopDatabase.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\ShopDatabase\ShopDatabase\obj\Debug\ShopDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\ShopDatabase\ShopDatabase\obj\Debug\ShopDatabase.exe
+C:\Users\Роман\Desktop\ShopDatabase\ShopDatabase\obj\Debug\ShopDatabase.pdb
+C:\Users\Роман\Desktop\ShopDatabase — копия\ShopDatabase\bin\Debug\ShopDatabase.exe.config
+C:\Users\Роман\Desktop\ShopDatabase — копия\ShopDatabase\bin\Debug\ShopDatabase.exe
+C:\Users\Роман\Desktop\ShopDatabase — копия\ShopDatabase\bin\Debug\ShopDatabase.pdb
+C:\Users\Роман\Desktop\ShopDatabase — копия\ShopDatabase\obj\Debug\ShopDatabase.csprojAssemblyReference.cache
+C:\Users\Роман\Desktop\ShopDatabase — копия\ShopDatabase\obj\Debug\ShopDatabase.Form1.resources
+C:\Users\Роман\Desktop\ShopDatabase — копия\ShopDatabase\obj\Debug\ShopDatabase.Form2.resources
+C:\Users\Роман\Desktop\ShopDatabase — копия\ShopDatabase\obj\Debug\ShopDatabase.Properties.Resources.resources
+C:\Users\Роман\Desktop\ShopDatabase — копия\ShopDatabase\obj\Debug\ShopDatabase.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\ShopDatabase — копия\ShopDatabase\obj\Debug\ShopDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\ShopDatabase — копия\ShopDatabase\obj\Debug\ShopDatabase.exe
+C:\Users\Роман\Desktop\ShopDatabase — копия\ShopDatabase\obj\Debug\ShopDatabase.pdb
